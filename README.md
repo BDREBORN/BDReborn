@@ -1,5 +1,7 @@
 # [BDReborn V6 (Final Version)](https://telegram.me/BDReborn)
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9a84594c798a4e6496bdf44d3daaf76c)](https://app.codacy.com/app/wrbuw/BDReborn?utm_source=github.com&utm_medium=referral&utm_content=BDREBORN/BDReborn&utm_campaign=badger)
+
 **An advanced and powerful administration bot based on NEW TG-CLI
 
 
