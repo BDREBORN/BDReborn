@@ -63,11 +63,3 @@ More information [Beyond Global Chat](https://telegram.me/joinchat/AAAAAEIDQ8HT
 
 [MAKAN](https://github.com/makanj) ([Tel
 
-
-### Our Telegram channel:
-
-[@BeyondTeam](https://telegram.me/BeyondTeam)
-
-### Our Web Site:
-
-
