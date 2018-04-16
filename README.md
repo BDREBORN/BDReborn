@@ -1,5 +1,4 @@
-# [BDReborn V6 (Final Version)](https://telegram.me/BDReborn)
-
+#
 **An advanced and powerful administration bot based on NEW TG-CLI
 
 
@@ -51,24 +50,15 @@ cd $HOME && git clone https://github.com/BeyondTeam/BDReborn.git && cd BDReborn 
 More information [Beyond Global Chat](https://telegram.me/joinchat/AAAAAEIDQ8HTjezV4syUSA)
 
 # Special thanks to
-[@MrHalix](https://github.com/MrHalix)
-
-[@Vysheng](https://github.com/vysheng)
+[@TACKPAR770](https://github.com/TACKPAR770)
 
 * * *
 
-# Developers!
-
-[SoLiD](https://github.com/solid021) ([Telegram](https://telegram.me/SoLiD))
-
-[To0fan](https://github.com/To0fan) ([Telegram](https://telegram.me/ToOfan))
-
-[MAKAN](https://github.com/makanj) ([Telegram](https://telegram.me/MAKAN))
+# DevelopersL
+the
+[TACKPAR775](https://github.com/makanj) ([Telegram](https://telegram.me/TACKPAR775)
 
 
-### Our Telegram channel:
-
-[@BeyondTeam](https://telegram.me/BeyondTeam)
 
 ### Our Web Site:
 
